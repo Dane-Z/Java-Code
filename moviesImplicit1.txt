@@ -1,0 +1,5 @@
+Cheryl 1 0 2 3
+Michael 0 2 3 1
+John 3 1 2 0
+Elizabeth 2 3 1 0
+Steve 3 2 1 0
